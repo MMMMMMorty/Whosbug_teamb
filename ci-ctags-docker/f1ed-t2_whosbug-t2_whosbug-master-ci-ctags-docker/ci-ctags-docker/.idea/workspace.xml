@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1cd0272d-65c8-4f7e-898c-0977aed882dc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/CodeDiff.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeDiffTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GitParser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InboxFilterController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NotificationCell.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NotificationSectionController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TagsParser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TagsParserTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestingFiles/DebugFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestingFiles/DebugFragment.java.tags" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestingFiles/ScheduleActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestingFiles/ScheduleActivity.java.tags" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestingFiles/SessionDetailFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestingFiles/SessionDetailFragment.java.tags" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestingFiles/githawk.diff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestingFiles/iosched.diff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tags" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uctags" beforeDir="false" afterPath="$PROJECT_DIR$/uctags" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1cMOHdTRMSGf5pF1g1ubQRWB1ex" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/TestingFiles" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/TestingFiles" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Nosetests for CodeDiffTest.CodeDiffTest.test_iosched_diff">
+    <configuration name="CodeDiff" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ctags-docker" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeDiff.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="GitParser" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ctags-docker" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GitParser.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Nosetests for CodeDiffTest.CodeDiffTest.test_githawk_diff" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+      <module name="ctags-docker" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;CodeDiffTest.CodeDiffTest.test_githawk_diff&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Nosetests for CodeDiffTest.CodeDiffTest.test_iosched_diff" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+      <module name="ctags-docker" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;CodeDiffTest.CodeDiffTest.test_iosched_diff&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Nosetests in CodeDiffTest.py" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+      <module name="ctags-docker" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/CodeDiffTest.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Nosetests for CodeDiffTest.CodeDiffTest.test_iosched_diff" />
+        <item itemvalue="Python tests.Nosetests for CodeDiffTest.CodeDiffTest.test_githawk_diff" />
+        <item itemvalue="Python.CodeDiff" />
+        <item itemvalue="Python tests.Nosetests in CodeDiffTest.py" />
+        <item itemvalue="Python.GitParser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1cd0272d-65c8-4f7e-898c-0977aed882dc" name="Default Changelist" comment="" />
+      <created>1590334908159</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590334908159</updated>
+      <workItem from="1590334911698" duration="2917000" />
+      <workItem from="1590424806133" duration="18571000" />
+      <workItem from="1590560489002" duration="11082000" />
+      <workItem from="1591231211172" duration="10838000" />
+      <workItem from="1591665384398" duration="17717000" />
+      <workItem from="1591757097950" duration="2123000" />
+      <workItem from="1592146482982" duration="11335000" />
+      <workItem from="1594038579280" duration="1009000" />
+      <workItem from="1595180264674" duration="1598000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="406" y="58" key="#TagsParser" timestamp="1590335213426">
+      <screen x="0" y="23" width="1440" height="840" />
+    </state>
+    <state x="406" y="58" key="#TagsParser/0.23.1440.840@0.23.1440.840" timestamp="1590335213426" />
+    <state x="408" y="186" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1590457029172">
+      <screen x="0" y="23" width="1440" height="840" />
+    </state>
+    <state x="408" y="186" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.840@0.23.1440.840" timestamp="1590457029172" />
+    <state width="775" height="466" key="DebuggerActiveHint" timestamp="1592362162291">
+      <screen x="0" y="23" width="1440" height="840" />
+    </state>
+    <state width="775" height="466" key="DebuggerActiveHint/0.23.1440.840@0.23.1440.840" timestamp="1592362162291" />
+    <state width="876" height="468" key="DebuggerActiveHint/0.23.1440.843@0.23.1440.843" timestamp="1591683403845" />
+    <state width="1398" height="359" key="GridCell.Tab.0.bottom" timestamp="1592627628844">
+      <screen x="0" y="23" width="1440" height="840" />
+    </state>
+    <state width="1398" height="231" key="GridCell.Tab.0.bottom/0.23.1440.840/1440.23.1920.1057@0.23.1440.840" timestamp="1592310985836" />
+    <state width="1398" height="359" key="GridCell.Tab.0.bottom/0.23.1440.840@0.23.1440.840" timestamp="1592627628844" />
+    <state width="1398" height="232" key="GridCell.Tab.0.bottom/0.23.1440.841@0.23.1440.841" timestamp="1591637241105" />
+    <state width="1398" height="232" key="GridCell.Tab.0.bottom/0.23.1440.842@0.23.1440.842" timestamp="1591720925433" />
+    <state width="1398" height="232" key="GridCell.Tab.0.bottom/0.23.1440.843/1440.23.1920.1057@0.23.1440.843" timestamp="1591753226843" />
+    <state width="1398" height="273" key="GridCell.Tab.0.bottom/0.23.1440.843@0.23.1440.843" timestamp="1591725285761" />
+    <state width="1398" height="359" key="GridCell.Tab.0.center" timestamp="1592627628843">
+      <screen x="0" y="23" width="1440" height="840" />
+    </state>
+    <state width="1398" height="231" key="GridCell.Tab.0.center/0.23.1440.840/1440.23.1920.1057@0.23.1440.840" timestamp="1592310985835" />
+    <state width="1398" height="359" key="GridCell.Tab.0.center/0.23.1440.840@0.23.1440.840" timestamp="1592627628843" />
+    <state width="1398" height="232" key="GridCell.Tab.0.center/0.23.1440.841@0.23.1440.841" timestamp="1591637241105" />
+    <state width="1398" height="232" key="GridCell.Tab.0.center/0.23.1440.842@0.23.1440.842" timestamp="1591720925433" />
+    <state width="1398" height="232" key="GridCell.Tab.0.center/0.23.1440.843/1440.23.1920.1057@0.23.1440.843" timestamp="1591753226842" />
+    <state width="1398" height="273" key="GridCell.Tab.0.center/0.23.1440.843@0.23.1440.843" timestamp="1591725285759" />
+    <state width="1398" height="359" key="GridCell.Tab.0.left" timestamp="1592627628843">
+      <screen x="0" y="23" width="1440" height="840" />
+    </state>
+    <state width="1398" height="231" key="GridCell.Tab.0.left/0.23.1440.840/1440.23.1920.1057@0.23.1440.840" timestamp="1592310985835" />
+    <state width="1398" height="359" key="GridCell.Tab.0.left/0.23.1440.840@0.23.1440.840" timestamp="1592627628843" />
+    <state width="1398" height="232" key="GridCell.Tab.0.left/0.23.1440.841@0.23.1440.841" timestamp="1591637241105" />
+    <state width="1398" height="232" key="GridCell.Tab.0.left/0.23.1440.842@0.23.1440.842" timestamp="1591720925433" />
+    <state width="1398" height="232" key="GridCell.Tab.0.left/0.23.1440.843/1440.23.1920.1057@0.23.1440.843" timestamp="1591753226842" />
+    <state width="1398" height="273" key="GridCell.Tab.0.left/0.23.1440.843@0.23.1440.843" timestamp="1591725285759" />
+    <state width="1398" height="359" key="GridCell.Tab.0.right" timestamp="1592627628843">
+      <screen x="0" y="23" width="1440" height="840" />
+    </state>
+    <state width="1398" height="231" key="GridCell.Tab.0.right/0.23.1440.840/1440.23.1920.1057@0.23.1440.840" timestamp="1592310985835" />
+    <state width="1398" height="359" key="GridCell.Tab.0.right/0.23.1440.840@0.23.1440.840" timestamp="1592627628843" />
+    <state width="1398" height="232" key="GridCell.Tab.0.right/0.23.1440.841@0.23.1440.841" timestamp="1591637241105" />
+    <state width="1398" height="232" key="GridCell.Tab.0.right/0.23.1440.842@0.23.1440.842" timestamp="1591720925433" />
+    <state width="1398" height="232" key="GridCell.Tab.0.right/0.23.1440.843/1440.23.1920.1057@0.23.1440.843" timestamp="1591753226842" />
+    <state width="1398" height="273" key="GridCell.Tab.0.right/0.23.1440.843@0.23.1440.843" timestamp="1591725285760" />
+    <state width="1398" height="231" key="GridCell.Tab.1.bottom" timestamp="1592627628803">
+      <screen x="0" y="23" width="1440" height="840" />
+    </state>
+    <state width="1398" height="231" key="GridCell.Tab.1.bottom/0.23.1440.840/1440.23.1920.1057@0.23.1440.840" timestamp="1592310985837" />
+    <state width="1398" height="231" key="GridCell.Tab.1.bottom/0.23.1440.840@0.23.1440.840" timestamp="1592627628803" />
+    <state width="1398" height="232" key="GridCell.Tab.1.bottom/0.23.1440.841@0.23.1440.841" timestamp="1591637241105" />
+    <state width="1398" height="232" key="GridCell.Tab.1.bottom/0.23.1440.842@0.23.1440.842" timestamp="1591720925432" />
+    <state width="1398" height="232" key="GridCell.Tab.1.bottom/0.23.1440.843/1440.23.1920.1057@0.23.1440.843" timestamp="1591753226939" />
+    <state width="1398" height="232" key="GridCell.Tab.1.bottom/0.23.1440.843@0.23.1440.843" timestamp="1591725229746" />
+    <state width="1398" height="231" key="GridCell.Tab.1.center" timestamp="1592627628802">
+      <screen x="0" y="23" width="1440" height="840" />
+    </state>
+    <state width="1398" height="231" key="GridCell.Tab.1.center/0.23.1440.840/1440.23.1920.1057@0.23.1440.840" timestamp="1592310985836" />
+    <state width="1398" height="231" key="GridCell.Tab.1.center/0.23.1440.840@0.23.1440.840" timestamp="1592627628802" />
+    <state width="1398" height="232" key="GridCell.Tab.1.center/0.23.1440.841@0.23.1440.841" timestamp="1591637241104" />
+    <state width="1398" height="232" key="GridCell.Tab.1.center/0.23.1440.842@0.23.1440.842" timestamp="1591720925432" />
+    <state width="1398" height="232" key="GridCell.Tab.1.center/0.23.1440.843/1440.23.1920.1057@0.23.1440.843" timestamp="1591753226938" />
+    <state width="1398" height="232" key="GridCell.Tab.1.center/0.23.1440.843@0.23.1440.843" timestamp="1591725229745" />
+    <state width="1398" height="231" key="GridCell.Tab.1.left" timestamp="1592627628802">
+      <screen x="0" y="23" width="1440" height="840" />
+    </state>
+    <state width="1398" height="231" key="GridCell.Tab.1.left/0.23.1440.840/1440.23.1920.1057@0.23.1440.840" timestamp="1592310985836" />
+    <state width="1398" height="231" key="GridCell.Tab.1.left/0.23.1440.840@0.23.1440.840" timestamp="1592627628802" />
+    <state width="1398" height="232" key="GridCell.Tab.1.left/0.23.1440.841@0.23.1440.841" timestamp="1591637241104" />
+    <state width="1398" height="232" key="GridCell.Tab.1.left/0.23.1440.842@0.23.1440.842" timestamp="1591720925431" />
+    <state width="1398" height="232" key="GridCell.Tab.1.left/0.23.1440.843/1440.23.1920.1057@0.23.1440.843" timestamp="1591753226938" />
+    <state width="1398" height="232" key="GridCell.Tab.1.left/0.23.1440.843@0.23.1440.843" timestamp="1591725229745" />
+    <state width="1398" height="231" key="GridCell.Tab.1.right" timestamp="1592627628802">
+      <screen x="0" y="23" width="1440" height="840" />
+    </state>
+    <state width="1398" height="231" key="GridCell.Tab.1.right/0.23.1440.840/1440.23.1920.1057@0.23.1440.840" timestamp="1592310985836" />
+    <state width="1398" height="231" key="GridCell.Tab.1.right/0.23.1440.840@0.23.1440.840" timestamp="1592627628802" />
+    <state width="1398" height="232" key="GridCell.Tab.1.right/0.23.1440.841@0.23.1440.841" timestamp="1591637241104" />
+    <state width="1398" height="232" key="GridCell.Tab.1.right/0.23.1440.842@0.23.1440.842" timestamp="1591720925432" />
+    <state width="1398" height="232" key="GridCell.Tab.1.right/0.23.1440.843/1440.23.1920.1057@0.23.1440.843" timestamp="1591753226939" />
+    <state width="1398" height="232" key="GridCell.Tab.1.right/0.23.1440.843@0.23.1440.843" timestamp="1591725229746" />
+    <state x="221" y="133" key="SettingsEditor" timestamp="1592326636636">
+      <screen x="0" y="23" width="1440" height="840" />
+    </state>
+    <state x="221" y="133" key="SettingsEditor/0.23.1440.840@0.23.1440.840" timestamp="1592326636636" />
+    <state width="720" height="420" key="XDebugger.FullValuePopup" timestamp="1591517017529">
+      <screen x="0" y="23" width="1440" height="840" />
+    </state>
+    <state width="720" height="420" key="XDebugger.FullValuePopup/0.23.1440.840@0.23.1440.840" timestamp="1591517017529" />
+    <state x="261" y="179" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1590597112489">
+      <screen x="0" y="23" width="1440" height="840" />
+    </state>
+    <state x="261" y="179" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1440.840@0.23.1440.840" timestamp="1590597112489" />
+    <state x="421" y="201" width="598" height="486" key="find.popup" timestamp="1591517730327">
+      <screen x="0" y="23" width="1440" height="840" />
+    </state>
+    <state x="421" y="201" width="598" height="486" key="find.popup/0.23.1440.840@0.23.1440.840" timestamp="1591517730327" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TagsParserTest.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CodeDiff.py</url>
+          <line>74</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CodeDiff.py</url>
+          <line>60</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CodeDiffTest.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CodeDiff.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/GitParser.py</url>
+          <line>60</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/GitParser.py</url>
+          <line>58</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="tests">
+        <watch expression="args[-1]" />
+        <watch expression="args[-2]" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ctags_docker$Nosetests_in_CodeDiffTest_py.coverage" NAME="Nosetests in CodeDiffTest.py Coverage Results" MODIFIED="1590597121784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ctags_docker$Nosetests_for_CodeDiffTest_CodeDiffTest_test_iosched_diff.coverage" NAME="Nosetests for CodeDiffTest.CodeDiffTest.test_iosched_diff Coverage Results" MODIFIED="1592362270301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ctags_docker$Nosetests_in_TagsParserTest_py.coverage" NAME="Nosetests in TagsParserTest.py Coverage Results" MODIFIED="1590336318204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ctags_docker$CodeDiff.coverage" NAME="CodeDiff Coverage Results" MODIFIED="1592323193006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ctags_docker$Nosetests_for_TagsParserTest_TagsParserTest_test_appmodule_kt.coverage" NAME="Nosetests for TagsParserTest.TagsParserTest.test_appmodule_kt Coverage Results" MODIFIED="1590336352686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ctags_docker$GitParser.coverage" NAME="GitParser Coverage Results" MODIFIED="1590549735994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ctags_docker$Nosetests_for_CodeDiffTest_CodeDiffTest_test_githawk_diff.coverage" NAME="Nosetests for CodeDiffTest.CodeDiffTest.test_githawk_diff Coverage Results" MODIFIED="1592362037590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ctags_docker$Nosetests_for_TagsParserTest_TagsParserTest_test_string.coverage" NAME="Nosetests for TagsParserTest.TagsParserTest.test_string Coverage Results" MODIFIED="1590336250919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

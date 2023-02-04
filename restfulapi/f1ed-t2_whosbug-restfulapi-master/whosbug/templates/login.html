@@ -1,0 +1,13 @@
+<div class="container">
+  <form class="form-signin" method="post">{% csrf_token %} <!--csrf_token：生成令牌-->
+    <h2 class="form-signin-heading" align="center">登录系统</h2>
+    <label for="inputUsername" class="sr-only">username</label>
+    <input type="text" name="username" id="inputUsername" class="form-control" placeholder="username" required autofocus>
+    <label for="inputPassword" class="sr-only">Password</label>
+    <input type="password" name="password" id="inputPassword" class="form-control" placeholder="Password" required>
+    <br />
+    <button class="btn btn-lg btn-primary btn-block" type="submit">登录</button>
+    <br />
+    <span style="color: red;">{{ err_msg }}</span>
+  </form>
+</div> <!-- /container -->
